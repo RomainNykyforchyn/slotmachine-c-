@@ -1,4 +1,4 @@
-# Slotmachine in c#
+# Slotmachine in C#
 
 ## Table of Contents
 
